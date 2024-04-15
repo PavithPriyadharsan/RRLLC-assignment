@@ -1,8 +1,8 @@
-# React + Vite
+# Converting a Figma design into a webpage with React JS and Tailwind CSS:
+![Frame](https://github.com/PavithPriyadharsan/RRLLC-assignment/assets/146210938/7c46c818-0849-40aa-8d99-557fd67f9380)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech stack used:
+* React JS
+* Tailwind CSS
+* additional icons and assets (images)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
